@@ -1,7 +1,7 @@
 👋 Olá, eu sou a Rafa!
 💻 Estudante de Engenharia de Software, explorando o mundo da cibersegurança e programação.
 🐍 Aprendendo Python, Java e C.
-🔎 Interessado em segurança da informação, hacking ético e automação.
+🔎 Interessada em segurança da informação, hacking ético e automação.
 🚀 Buscando evoluir e contribuir com projetos open-source!
 
 📫 Entre em contato comigo: ra_novaes10@outlook.com
