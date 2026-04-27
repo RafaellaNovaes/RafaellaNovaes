@@ -27,8 +27,7 @@ Linguagens de Programação
  Arquitetura de Sistemas
  SOLID & Design Patterns em Java
 
-Estatísticas
-✨ 101 contribuições ✨
+
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RafaellaNovaes&show_icons=true&theme=dark&include_all_commits=true&count_private=true&bg_color=0F0F1E&title_color=D4AF37&text_color=B0B0B0&icon_color=D4AF37" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaellaNovaes&layout=compact&langs_count=16&theme=dark&bg_color=0F0F1E&title_color=D4AF37&text_color=B0B0B0" />
