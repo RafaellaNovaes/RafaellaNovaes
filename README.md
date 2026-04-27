@@ -6,8 +6,7 @@ Software Engineer | Cybersecurity Enthusiast | Red Team
 
 "A excelência não é um destino, é um vício." 👑
 </div>
-<img align="right" src="https://media.giphy.com/media/qgQUggAC2Pfv19go9l/giphy.gif" width="250px" style="border-radius: 10px;"/>
-
+<img align="right" src="https://media.giphy.com/media/jSKBmKkvo2dPQMoColc/giphy.gif" width="280px" style="border-radius: 10px;"/>
  Sobre Mim
  
 Sou uma Software Engineer dedicada a dominar Segurança Ofensiva e Arquitetura de Sistemas.
