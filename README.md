@@ -43,7 +43,15 @@ Sou uma **Software Engineer** dedicada a dominar **Segurança Ofensiva**, **Arqu
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaellaNovaes&layout=compact&theme=dracula&hide_border=true&bg_color=0D0D1A&title_color=E91E63&text_color=eaeaea)
 
 ---
+---
 
+##  Minhas Contribuições
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/RafaellaNovaes/RafaellaNovaes/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+</div>
+
+---
 
 ## 🔗 Conecte-se Comigo
 
