@@ -40,7 +40,6 @@ Sou uma **Software Engineer** dedicada a dominar **Segurança Ofensiva**, **Arqu
 ## 📊 Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RafaellaNovaes&show_icons=true&theme=dracula&hide_border=true&bg_color=0D0D1A&title_color=E91E63&text_color=eaeaea&icon_color=E91E63)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaellaNovaes&layout=compact&theme=dracula&hide_border=true&bg_color=0D0D1A&title_color=E91E63&text_color=eaeaea)
 
 ---
