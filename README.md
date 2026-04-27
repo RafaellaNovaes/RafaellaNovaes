@@ -1,12 +1,14 @@
 <div align="center">
+<img src="https://media.giphy.com/media/jSKBmKkvo2dPQMoColc/giphy.gif" width="250px" style="border-radius: 15px;"/>
+ 
  Rafaella Novaes
 Software Engineer | Cybersecurity Enthusiast | Red Team
  
 ✨ ═══════════════════════════════════════════════ ✨
 
 "A excelência não é um destino, é um vício." 👑
-</div>
-<img align="right" src="https://media.giphy.com/media/jSKBmKkvo2dPQMoColc/giphy.gif](https://media1.tenor.com/m/tBXdvbMUNxAAAAAC/boa-hancock-warlord-of-the-sea.gif" width="280px" style="border-radius: 10px;"/>
+<img src="https://img.shields.io/badge/Status-Active-E91E63?style=flat-square"/>
+<img src="https://img.shields.io/badge/Focus-Security-9C27B0?style=flat-square"/>
  Sobre Mim
  
 Sou uma Software Engineer dedicada a dominar Segurança Ofensiva e Arquitetura de Sistemas.
@@ -17,10 +19,10 @@ Sou uma Software Engineer dedicada a dominar Segurança Ofensiva e Arquitetura d
 Linguagens de Programação
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Java-E91E63?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-9C27B0?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-E91E63?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-FFC107?style=for-the-badge&logo=javascript&logoColor=black" />
 </div>
 
  Red Team & Segurança Ofensiva
@@ -38,6 +40,8 @@ Conecte-se Comigo
   <a href="mailto:ra.novaes@outlook.com"><img src="https://img.shields.io/badge/Email-D4AF37?style=for-the-badge&logo=gmail&logoColor=0F0F1E" /></a>
   <a href="https://github.com/RafaellaNovaes"><img src="https://img.shields.io/badge/GitHub-F5F5F5?style=for-the-badge&logo=github&logoColor=0F0F1E" /></a>
   <a href="https://linkedin.com/in/rafaella-novaes"><img src="https://img.shields.io/badge/LinkedIn-D4AF37?style=for-the-badge&logo=linkedin&logoColor=0F0F1E" /></a>
+</div>
+<img src="https://media.giphy.com/media/jSKBmKkvo2dPQMoColc/giphy.gif" width="150px" style="border-radius: 10px;"/>
 </div>
 </div>
 
