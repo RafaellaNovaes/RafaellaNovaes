@@ -1,53 +1,92 @@
 <div align="center">
-<img src="https://media.giphy.com/media/jSKBmKkvo2dPQMoColc/giphy.gif" width="250px" style="border-radius: 15px;"/>
- 
- Rafaella Novaes
-Software Engineer | Cybersecurity Enthusiast | Red Team
- 
-✨ ═══════════════════════════════════════════════ ✨
 
-"A excelência não é um destino, é um vício." 👑
-<img src="https://img.shields.io/badge/Status-Active-E91E63?style=flat-square"/>
-<img src="https://img.shields.io/badge/Focus-Security-9C27B0?style=flat-square"/>
- Sobre Mim
- 
-Sou uma Software Engineer dedicada a dominar Segurança Ofensiva e Arquitetura de Sistemas.
- São Paulo, Brasil
- Estudante de Software Engineering na UMC
- Especialidades: Red Team, Segurança Ofensiva, Arquitetura de Sistemas
+<img src="https://media.tenor.com/7bC0GkJr7V8AAAAC/boa-hancock-anime.gif" width="300px" style="border-radius: 20px;"/>
 
-Linguagens de Programação
-<div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-E91E63?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-9C27B0?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-E91E63?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-FFC107?style=for-the-badge&logo=javascript&logoColor=black" />
+   Rafaella Novaes 
+
+### 💜 Software Engineer | Cybersecurity Enthusiast | Red Team 💜
+
+✨ ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ✨  
+
+<i>"A excelência não é um destino, é um vício."</i>  
+
+<img src="https://img.shields.io/badge/Status-Active-8b0000?style=flat-square"/>
+<img src="https://img.shields.io/badge/Focus-Security-6a0dad?style=flat-square"/>
+
 </div>
 
- Red Team & Segurança Ofensiva
- Arquitetura de Sistemas
- SOLID & Design Patterns em Java
+---
 
+## Sobre Mim
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RafaellaNovaes&show_icons=true&theme=dark&include_all_commits=true&count_private=true&bg_color=0F0F1E&title_color=D4AF37&text_color=B0B0B0&icon_color=D4AF37&cache_seconds=1800" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaellaNovaes&layout=compact&langs_count=16&theme=dark&bg_color=0F0F1E&title_color=D4AF37&text_color=B0B0B0&cache_seconds=1800" />
-</div>
+Sou uma Software Engineer dedicada a dominar **Segurança Ofensiva** e **Arquitetura de Sistemas**.  
 
-Conecte-se Comigo
-<div align="center">
-  <a href="mailto:ra.novaes@outlook.com"><img src="https://img.shields.io/badge/Email-D4AF37?style=for-the-badge&logo=gmail&logoColor=0F0F1E" /></a>
-  <a href="https://github.com/RafaellaNovaes"><img src="https://img.shields.io/badge/GitHub-F5F5F5?style=for-the-badge&logo=github&logoColor=0F0F1E" /></a>
-  <a href="https://linkedin.com/in/rafaella-novaes"><img src="https://img.shields.io/badge/LinkedIn-D4AF37?style=for-the-badge&logo=linkedin&logoColor=0F0F1E" /></a>
-</div>
-<img src="https://media.giphy.com/media/jSKBmKkvo2dPQMoColc/giphy.gif" width="150px" style="border-radius: 10px;"/>
-</div>
-</div>
+📍 São Paulo, Brasil  
+🎓 Software Engineering Student - UMC  
+🔥 Especialidades: Red Team | Segurança Ofensiva | Arquitetura  
+
+---
+
+## Linguagens de Programação
 
 <div align="center">
-✨ ═══════════════════════════════════════════════ ✨
- 
+
+<img src="https://img.shields.io/badge/Python-6a0dad?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-8b0000?style=for-the-badge&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-2a003f?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-8b0000?style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-ff4da6?style=for-the-badge&logo=javascript&logoColor=black"/>
+
+</div>
+
+---
+
 <div align="center">
-Beleza é poder. Código elegante é arte.
+
+ Red Team • Segurança Ofensiva • Arquitetura de Sistemas   
+ SOLID & Design Patterns em Java   
+
+</div>
+
+---
+
+## 📊 Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=RafaellaNovaes&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaellaNovaes&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## 💌 Conecte-se Comigo
+
+<div align="center">
+
+<a href="mailto:ra.novaes@outlook.com">
+<img src="https://img.shields.io/badge/Email-8b0000?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/RafaellaNovaes">
+<img src="https://img.shields.io/badge/GitHub-2a003f?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/rafaella-novaes">
+<img src="https://img.shields.io/badge/LinkedIn-6a0dad?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://media.tenor.com/7bC0GkJr7V8AAAAC/boa-hancock-anime.gif" width="180px"/>
+
+✨ ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ✨  
+
+💜 <b>Beleza é poder. Código elegante é arte.</b> 💜  
+
 </div>
