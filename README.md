@@ -6,7 +6,7 @@ Software Engineer | Cybersecurity Enthusiast | Red Team
 
 "A excelência não é um destino, é um vício." 👑
 </div>
-<img align="right" src="https://media.giphy.com/media/jSKBmKkvo2dPQMoColc/giphy.gif" width="280px" style="border-radius: 10px;"/>
+<img align="right" src="https://media.giphy.com/media/jSKBmKkvo2dPQMoColc/giphy.gif](https://media1.tenor.com/m/tBXdvbMUNxAAAAAC/boa-hancock-warlord-of-the-sea.gif" width="280px" style="border-radius: 10px;"/>
  Sobre Mim
  
 Sou uma Software Engineer dedicada a dominar Segurança Ofensiva e Arquitetura de Sistemas.
