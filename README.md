@@ -35,11 +35,12 @@ Estatísticas
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaellaNovaes&layout=compact&langs_count=16&theme=dark&bg_color=0F0F1E&title_color=D4AF37&text_color=B0B0B0" />
 </div>
 
-🔗 Conecte-se Comigo
+Conecte-se Comigo
 <div align="center">
-Email: ra_novaes10@outlook.com
-GitHb: https://github.com/RafaellaNovaes
-Linkedin: https://linkedin.com/in/rafaella-novaes
+  <a href="mailto:ra.novaes@outlook.com"><img src="https://img.shields.io/badge/Email-D4AF37?style=for-the-badge&logo=gmail&logoColor=0F0F1E" /></a>
+  <a href="https://github.com/RafaellaNovaes"><img src="https://img.shields.io/badge/GitHub-F5F5F5?style=for-the-badge&logo=github&logoColor=0F0F1E" /></a>
+  <a href="https://linkedin.com/in/rafaella-novaes"><img src="https://img.shields.io/badge/LinkedIn-D4AF37?style=for-the-badge&logo=linkedin&logoColor=0F0F1E" /></a>
+</div>
 </div>
 
 <div align="center">
