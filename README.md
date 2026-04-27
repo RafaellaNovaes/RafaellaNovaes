@@ -1,6 +1,28 @@
-Olá, eu sou a Rafa! Estudante de Engenharia de Software, explorando o mundo da cibersegurança e programação. Aprendendo Python, Java e C. Interessada em segurança da informação, hacking ético e automação. Buscando evoluir e contribuir com projetos open-source!
+Software Engineer | Cybersecurity Enthusiast 
 
-📫 Entre em contato comigo: ra_novaes10@outlook.com
+Sobre Mim
+Sou estudante de Software Engineering na UMC, exploradora apaixonada por segurança ofensiva, arquitetura de sistemas e padrões de design.
+
+*Especialidades:*
+-Segurança Ofensiva (Red Team) & Arquitetura de Sistemas
+-SOLID & Design Patterns em Java
+-Infraestrutura de Redes (Cisco Networking Academy)
+-Python, SQL, C | Desenvolvimento de projetos production-ready
+
+🔗 Conecte-se Comigo
+Email: ra.novaes@outlook.com
+GitHub: @RafaellaNovaes
+LinkedIn: Rafaella Novaes
+
+Estatísticas & Contribuições
+99 contribuições em 2024 | Código consistente, qualidade constante
+<div style="margin-top: 20px; padding-top: 20px; border-top: 1px solid #D4AF37;">
+
+Java 🔵 ███████████ 90%
+Python 🟡 ████████ 75%
+SQL 🟢 █████████ 85%
+C ⚫ ████████ 70%
+JavaScript 🟨 ███████ 65%
 
 <h1> </h1>
 <div>
