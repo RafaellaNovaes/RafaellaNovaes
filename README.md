@@ -1,4 +1,5 @@
 <div align="center">
+<img src="https://media.giphy.com/media/jSKBmKkvo2dPQMoColc/giphy.gif" width="250px" style="border-radius: 15px;"/>
 
 <img src="https://media.tenor.com/7bC0GkJr7V8AAAAC/boa-hancock-anime.gif" width="300px" style="border-radius: 20px;"/>
 
@@ -6,12 +7,15 @@
 
 ### 💜 Software Engineer | Cybersecurity Enthusiast | Red Team 💜
 
+<img src="https://img.shields.io/badge/Status-Active-E91E63?style=flat-square"/>
+<img src="https://img.shields.io/badge/Focus-Security-9C27B0?style=flat-square"/>
+
 ✨ ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ✨  
 
 <i>"A excelência não é um destino, é um vício."</i>  
 
-<img src="https://img.shields.io/badge/Status-Active-8b0000?style=flat-square"/>
-<img src="https://img.shields.io/badge/Focus-Security-6a0dad?style=flat-square"/>
+</div>
+<img align="right" src="https://media.giphy.com/media/jSKBmKkvo2dPQMoColc/giphy.gif" width="300px" style="border-radius: 15px; margin: 20px 0;"/>
 
 </div>
 
@@ -29,13 +33,14 @@ Sou uma Software Engineer dedicada a dominar **Segurança Ofensiva** e **Arquite
 
 ## Linguagens de Programação
 
-<div align="center">
 
-<img src="https://img.shields.io/badge/Python-6a0dad?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-8b0000?style=for-the-badge&logo=java&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-2a003f?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/C-8b0000?style=for-the-badge&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-ff4da6?style=for-the-badge&logo=javascript&logoColor=black"/>
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-9C27B0?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-E91E63?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-9C27B0?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-E91E63?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-FFC107?style=for-the-badge&logo=javascript&logoColor=black" />
+</div>
 
 </div>
 
