@@ -47,5 +47,5 @@ Conecte-se Comigo
 ✨ ═══════════════════════════════════════════════ ✨
  
 <div align="center">
-Beleza é poder. Código elegante é arte. 💎
+Beleza é poder. Código elegante é arte.
 </div>
