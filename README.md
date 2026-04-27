@@ -1,19 +1,21 @@
 <div align="center">
-👑 Rafaella Novaes
+ Rafaella Novaes
 Software Engineer | Cybersecurity Enthusiast | Red Team
+ 
 ✨ ═══════════════════════════════════════════════ ✨
+
 "A excelência não é um destino, é um vício." 👑
 </div>
 <img align="right" src="https://media.giphy.com/media/qgQUggAC2Pfv19go9l/giphy.gif" width="250px" style="border-radius: 10px;"/>
 
  Sobre Mim
-Sou uma Software Engineer dedicada a dominar Segurança Ofensiva, Arquitetura de Sistemas e Padrões de Design.
+ 
+Sou uma Software Engineer dedicada a dominar Segurança Ofensiva e Arquitetura de Sistemas.
  São Paulo, Brasil
  Estudante de Software Engineering na UMC
  Especialidades: Red Team, Segurança Ofensiva, Arquitetura de Sistemas
 
 Linguagens de Programação
-
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
