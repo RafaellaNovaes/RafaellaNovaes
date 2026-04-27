@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👑 Rafaella Novaes
+#  Rafaella Novaes
 
 **Software Engineer | Cybersecurity Enthusiast | Red Team**
 
@@ -9,7 +9,7 @@
 
 ✨ ═══════════════════════════════════════════════ ✨
 
-*"A excelência não é um destino, é um vício."* 👑
+*"A excelência não é um destino, é um vício."* 
 
 </div>
 
@@ -50,11 +50,7 @@ Sou uma **Software Engineer** dedicada a dominar **Segurança Ofensiva**, **Arqu
 
 <div align="center">
 
-  <a href="mailto:ra.novaes@outlook.com"><img src="https://img.shields.io/badge/EMAIL-E91E63?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  
-  <a href="https://github.com/RafaellaNovaes"><img src="https://img.shields.io/badge/GITHUB-9C27B0?style=for-the-badge&logo=github&logoColor=white" /></a>
-  
-  <a href="https://linkedin.com/in/rafaella-novaes"><img src="https://img.shields.io/badge/LINKEDIN-E91E63?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:ra.novaes@outlook.com"><img src="https://img.shields.io/badge/EMAIL-E91E63?style=for-the-badge&logo=gmail&logoColor=white" /></a>  <a href="https://github.com/RafaellaNovaes"><img src="https://img.shields.io/badge/GITHUB-9C27B0?style=for-the-badge&logo=github&logoColor=white" /></a> <a href="https://linkedin.com/in/rafaella-novaes"><img src="https://img.shields.io/badge/LINKEDIN-E91E63?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 </div>
 
