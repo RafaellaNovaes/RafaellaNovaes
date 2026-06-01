@@ -8,8 +8,7 @@
 <img src="https://img.shields.io/badge/Focus-Security-9C27B0?style=flat-square"/>
 
 ✨ ═══════════════════════════════════════════════ ✨
-
-*"A excelência não é um destino, é um vício."* 
+ 
 
 </div>
 
@@ -17,11 +16,11 @@
 
 ## 🌟 Sobre Mim
 
-Sou uma **Software Engineer** dedicada a dominar **Segurança Ofensiva**, **Arquitetura de Sistemas** e **Padrões de Design**. 
+Sou uma **Software Engineer** dedicada a dominar **Segurança Ofensiva**. 
 
 📍 **São Paulo, Brasil**  
 🎓 **Estudante** de Software Engineering na UMC  
-💼 **Especialidades:** Red Team, Segurança Ofensiva, Arquitetura de Sistemas
+💼 **Especialidades:** Red Team, Segurança Ofensiva, Arquitetura de Sistemas, desenvolvimento backend
 
 ---
 
